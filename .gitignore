@@ -3,3 +3,6 @@ kaggle.json
 
 # 데이터 폴더 무시
 /2
+
+# venv 폴더 무시
+/facevenv
