@@ -4,5 +4,12 @@ kaggle.json
 # 데이터 폴더 무시
 /2
 
+# 데이터 무시
+sub_gentext_siamese/gen_text_data/data_combined.xlsx
+sub_gentext_siamese/gen_text_data/preprocessed_texts.json
+sub_gentext_siamese/gen_text_data/siamese_data_pairs.json
+sub_gentext_siamese/gen_text_data/tokenized_data.npz
+sub_gentext_siamese/gen_text_data/tokenizer.json
+sub_gentext_siamese/gen_text_data/model_config.json
 # venv 폴더 무시
 /facevenv
